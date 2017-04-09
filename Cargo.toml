@@ -1,0 +1,7 @@
+[package]
+name = "boxgame"
+version = "0.1.0"
+authors = ["wangying <wy721@qq.com>"]
+
+[dependencies]
+sdl2 = "0.29.0"
